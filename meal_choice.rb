@@ -1,5 +1,5 @@
 def meal_choice(option="meat")
-  "${option}"
+  "#{option}"
 end
 
 meal_choice
