@@ -1,2 +1,5 @@
-def meal_choice(option)
+def meal_choice(option="meat")
+  "${option}"
 end
+
+meal_choice
